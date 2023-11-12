@@ -12,7 +12,7 @@ Water is essential for all forms of life, yet its quality can vary dramatically,
 **Tools:** 🛠️
 
 - **Language:** Python 
-- **Data Analysis:** Pandas, Numpy, missingno, Matplotlib, Seaborn
+- **Data Analysis:** Pandas, Numpy, Scipy, Missingno, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-Learn, Imblearn
 
 **Dataset**: [Keggle Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
