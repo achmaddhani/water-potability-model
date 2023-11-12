@@ -1,5 +1,4 @@
 # 💧 Water Potability EDA and Classification Model
-
 [Huggingface](https://huggingface.co/spaces/achmaddhani/water_potability_prediction)
 
 **Objective:** 🎯
@@ -15,3 +14,5 @@ Water is essential for all forms of life, yet its quality can vary dramatically,
 - **Language:** Python 
 - **Data Analysis:** Pandas, Numpy, missingno, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-Learn, Imblearn
+
+**Dataset**: [Keggle Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
