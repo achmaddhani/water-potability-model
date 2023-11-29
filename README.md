@@ -1,5 +1,7 @@
 # Water Potability Classification Project 💧
 
+[Webapps Deployment](https://huggingface.co/spaces/achmaddhani/water_potability)
+
 ## Objective 🎯
 Water is essential for life, yet its quality varies greatly. This project aims to distinguish between potable and non-potable water using a classification model. Focusing on the Recall metric, aiming to ensure the safety and potability of water for consumption.
 

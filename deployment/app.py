@@ -14,9 +14,7 @@ page = st.sidebar.selectbox(label='Select Page:', options=['Home Page', 'Explora
 if page == 'Home Page':
     st.header('Home Page') 
     st.write('')
-    st.write('Phase 1 Milestone 2')
-    st.write('Name      : Achmad Dhani')
-    st.write('Batch     : HCK-009')
+    st.write('Name: Achmad Dhani')
     st.markdown('Dataset: [Water Quality](https://www.kaggle.com/datasets/adityakadiwal/water-potability)')
     st.write('Objective : Water is essential for all forms of life, yet its quality can vary dramatically, with the potential to sustain health or cause disease. The distinction between potable water, which is safe for consumption, and non-potable water, which poses health risks, determined by the presence of certain chemicals. By employing classification model focused on the Recall metric, we can effectively predict the potability of water, ensuring its safety for consumption.')
     st.write('')
