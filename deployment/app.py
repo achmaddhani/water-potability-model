@@ -1,9 +1,5 @@
 '''
-Phase 1 Milestone 2
-
-Nama : Achmad Dhani
-
-Batch : HCK-009
+Achmad Dhani
 
 Objective : Creating a main page of the webapps.
 '''
